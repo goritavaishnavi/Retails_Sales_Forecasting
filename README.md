@@ -5,11 +5,11 @@ This project analyzes Walmart retail sales data to identify sales trends, evalua
 
 Problem Statement
 Businesses need to understand historical sales performance and forecast future trends to improve planning and decision-making. This project aims to:
-Analyze historical sales data
-Identify key sales drivers
-Compare holiday and non-holiday sales performance
-Evaluate the impact of economic factors
-Forecast future sales trends
+Analyze historical sales data
+Identify key sales drivers
+Compare holiday and non-holiday sales performance
+Evaluate the impact of economic factors
+Forecast future sales trends
 
 Dataset Information
 The dataset contains historical Walmart sales data with the following attributes:
@@ -33,57 +33,57 @@ Unemployment
 Unemployment rate
 
 Tools and Technologies
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Microsoft Excel / CSV Dataset
+Power BI Desktop
+Power Query
+DAX (Data Analysis Expressions)
+Microsoft Excel / CSV Dataset
 
 Data Preparation
 The following preprocessing steps were performed:
-Converted Date column to Date format
-Removed invalid and duplicate records
-Created Year, Month, Quarter, and Month Number columns
-Organized data for analysis and forecasting
+Converted Date column to Date format
+Removed invalid and duplicate records
+Created Year, Month, Quarter, and Month Number columns
+Organized data for analysis and forecasting
 
 Key Performance Indicators (KPIs)
 The dashboard includes:
-Total Sales
-Average Weekly Sales
-Total Number of Stores
+Total Sales
+Average Weekly Sales
+Total Number of Stores
 
 Dashboard Visualizations
 Sales Trend Analysis
-Monthly Sales Trend
-Sales Forecast using historical sales data
+Monthly Sales Trend
+Sales Forecast using historical sales data
 Store Performance Analysis
-Total Sales by Store
-Identification of top-performing stores
+Total Sales by Store
+Identification of top-performing stores
 Holiday Impact Analysis
-Average Weekly Sales during Holiday vs Non-Holiday periods
+Average Weekly Sales during Holiday vs Non-Holiday periods
 Economic Factors Analysis
-CPI vs Weekly Sales
-Temperature vs Weekly Sales
+CPI vs Weekly Sales
+Temperature vs Weekly Sales
 Interactive Filters
-Year Filter
-Store Filter
-Holiday Filter
+Year Filter
+Store Filter
+Holiday Filter
 
 Key Insights
-Total sales reached approximately 6.74 Billion.
-The dataset covers 45 Walmart stores.
-Holiday weeks generated higher average sales compared to non-holiday weeks.
-Certain stores consistently outperformed others in total sales.
-Temperature shows a weak relationship with sales performance.
-CPI has limited impact on weekly sales.
-Forecasting indicates relatively stable future sales trends.
+Total sales reached approximately 6.74 Billion.
+The dataset covers 45 Walmart stores.
+Holiday weeks generated higher average sales compared to non-holiday weeks.
+Certain stores consistently outperformed others in total sales.
+Temperature shows a weak relationship with sales performance.
+CPI has limited impact on weekly sales.
+Forecasting indicates relatively stable future sales trends.
 
 Forecasting
 Power BI’s built-in forecasting feature was applied to historical weekly sales data to predict future sales trends.
 Forecast Configuration:
-Historical Weekly Sales Data
-Time Series Forecasting
-Confidence Interval: 95%
-Forecast Horizon: Future Weeks
+Historical Weekly Sales Data
+Time Series Forecasting
+Confidence Interval: 95%
+Forecast Horizon: Future Weeks
 
 Dashboard Screenshot
 Add your dashboard screenshot here after uploading it to GitHub.
@@ -105,18 +105,18 @@ Retail-Sales-Forecasting
 
 Business Value
 This dashboard helps businesses:
-Monitor sales performance
-Identify sales trends
-Understand holiday sales behavior
-Analyze economic factors affecting sales
-Forecast future sales for better planning
+Monitor sales performance
+Identify sales trends
+Understand holiday sales behavior
+Analyze economic factors affecting sales
+Forecast future sales for better planning
 
 Future Improvements
-Advanced forecasting models
-Regional sales analysis
-Product category analysis
-Customer segmentation
-Integration with live data sources
+Advanced forecasting models
+Regional sales analysis
+Product category analysis
+Customer segmentation
+Integration with live data sources
 
 Author
 Vaishnavi Reddy
